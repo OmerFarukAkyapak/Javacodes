@@ -1,1 +1,1 @@
-# gnoodi
+A Simple Card Game
